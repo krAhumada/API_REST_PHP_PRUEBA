@@ -1,0 +1,7 @@
+endpoints post
+
+1. localhost/delfosti-prueba/dynamicTokens/generateToken
+
+se tiene que indicar en la cabecera un token Estatico para la generación de un token dinámico:
+
+token: def00000332bee59c86de88f4afdcb66feeff2a59b1620f83afcb24420a6eaf239babf8d2a39782a8e31ebb1f4356af13cfca0d73060f839ddb7bfaffde0412048164d3d

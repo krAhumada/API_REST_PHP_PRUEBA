@@ -1,0 +1,11 @@
+Creación de 3 APIS, las cuales se encuentran e 3 carpetas distintas.
+
+las api´s fueron creadas con PHP nativo, sin frameworks.
+
+las carpetas son:
+
+1. API CREACION DE TABLAS: createTables
+2. API DE TOKEN DINAMICO: dynamicTokem
+3. API DE PAGO: payments
+
+en cada una de ellas dejo un readme.

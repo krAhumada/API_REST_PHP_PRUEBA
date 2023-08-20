@@ -1,0 +1,15 @@
+endpoints:
+
+Metodo POST
+
+1. localhost/delfosti-prueba/createTables/createTableAttemptsPayment
+
+2. localhost/delfosti-prueba/createTables/createTableDynamicToken
+
+3. localhost/delfosti-prueba/createTables/validateToken
+
+en este enpoint se tiene que indicar el token dinámico en la cabecera, para validar la existencia y la expiracion
+
+token : def50200e23d4eb4d1648cf4804fcf4fcdd07e4ede47f25f50d14b4a3c2680a4785de78d9d56d8c073b1c1f5c3bb637267eca7824c382c523e0a3774a74302eb825e692ac4c27d5719be2f030a8757c2b4e14f12d7a39ed82106b2deb1333a2a44e95eb6a14157e1bc06e2c1ad3e10e21c2c02e672cf2a450c8cc1defb7e6cc84d607e0b181cbe1447bfde9e35e1499115742dff0d32963a46d37b5276659d3ce1b681faa70c3d47406bbb56b091cc970e54b795491ef4394a218f048ab7bc22465a013d63f19e413d6d824fd62c90d019c7ce2921fa3b243b8ce27a
+
+4. localhost/delfosti-prueba/createTables/insertAttemptsPayment

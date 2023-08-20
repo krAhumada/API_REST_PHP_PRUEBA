@@ -1,0 +1,8 @@
+endpoint
+
+1. localhost/delfosti-prueba/payments/processPayment
+
+Este endpoint va a registrar los intentos de pago. despues de generar el pago con la libreria stripe.
+
+para levantar el formulario de pago ingresar a: http://localhost/delfosti-prueba/payments/formulario
+ingresar en el campo de tarjeta: 4242 4242 4242 4242
