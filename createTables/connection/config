@@ -1,0 +1,9 @@
+{
+    "connection": {
+        "server": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "delfosti",
+        "port": "3306"
+    }
+}
