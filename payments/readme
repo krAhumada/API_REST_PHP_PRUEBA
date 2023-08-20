@@ -6,3 +6,5 @@ Este endpoint va a registrar los intentos de pago. despues de generar el pago co
 
 para levantar el formulario de pago ingresar a: http://localhost/delfosti-prueba/payments/formulario
 ingresar en el campo de tarjeta: 4242 4242 4242 4242
+
+En la carpeta del proyecto ejecutar en la terminal: composer install
